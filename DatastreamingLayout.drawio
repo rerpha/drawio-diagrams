@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T08:59:02.165Z" agent="5.0 (Windows)" etag="n_pHm5OXB678eMK_NGZM" version="13.0.5" type="github"><diagram id="mHXAq9ncWBV6Gwi8FLQK" name="Page-1">3ZXJboMwEIafhmMlMCSkx2Zpk0pVK6Eq6tHFDrgxGBmz5ek7gAkgEqmVqh5yyvjzeJZ/RsGwV1H5JHESvghCuYFMUhr22kAIzVwHfmpStcRynPuWBJIRzXrgsRPV0NQ0Y4SmI0clBFcsGUNfxDH11YhhKUUxdjsIPs6a4IBOgOdjPqV7RlTY0gVye76lLAi7zNZc9xfhzll3koaYiGKA7I1hr6QQqrWickV5rV6nS/vu8crtuTBJY/WTB8nRJNul+2EdvvL9png/vD4f73SUHPNMN7zxPAAcVyJTunBVdWooWkKuZagiDsACE3MWxGD7UAWVAHIqFQP9HvRFxAipny8lTdkJfzahTDgngsWqmc5saczWdaxMibTdgDq0Lg3i0fJqz9ZZSdhBKiKqZAUu+oGjtdfb5+pj0U+yQ+FgiN3EsN6d4By3lxcMrfAv1EYTtVeZbHpB5s7b3a7wzgXlLes/pbcn0htozmtNCcvBDGrzTYpEpJRMx9G6QuaB960NaXFpSOhvhgTH/p+uuRt8MOzNNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-04T09:39:46.869Z" agent="5.0 (Windows)" etag="62Ere7iFwm41fjOmY_1Z" version="13.0.5" type="github">
+  <diagram id="mHXAq9ncWBV6Gwi8FLQK" name="Page-1">
+    <mxGraphModel dx="2574" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pk0dHB7Y1fjvWEwUfOJk-1" value="ESS layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pk0dHB7Y1fjvWEwUfOJk-2" value="Current ISIS layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="575" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pk0dHB7Y1fjvWEwUfOJk-3" value="&lt;div&gt;Proposed ISIS layout&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1030" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-1" target="yYvdVF-vX2-O6icSIcVo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-9" value="Events (EV42 Schema) or HS00 for histograms" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-8">
+          <mxGeometry x="-0.0385" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-1" value="Event Formation Unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-4" target="yYvdVF-vX2-O6icSIcVo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-4" value="Detector Electronics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-7" target="yYvdVF-vX2-O6icSIcVo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-15" value="filewriter configuration (JSON)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-12">
+          <mxGeometry x="-0.3053" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-7" target="yYvdVF-vX2-O6icSIcVo-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="240" />
+              <mxPoint x="720" y="190" />
+              <mxPoint x="1010" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-17" value="Data from topics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-16">
+          <mxGeometry x="0.1545" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-7" target="yYvdVF-vX2-O6icSIcVo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-21" value="Forwarder PV configuration (JSON)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-20">
+          <mxGeometry x="0.1681" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-7" value="Kafka Cluster" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-11" target="yYvdVF-vX2-O6icSIcVo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-11" value="Filewriter (kafka-to-nexus)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-13" value="Nexus File" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-18" target="yYvdVF-vX2-O6icSIcVo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-24" value="EPICS monitor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-22">
+          <mxGeometry x="-0.5326" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-18" value="EPICS PVs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-19" target="yYvdVF-vX2-O6icSIcVo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-25" value="forwarded PV data(F142)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-23">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-19" value="Forwarder (forward-epics-to-kafka)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="yYvdVF-vX2-O6icSIcVo-26" target="yYvdVF-vX2-O6icSIcVo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-28" value="Filewriter + forwarder config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYvdVF-vX2-O6icSIcVo-27">
+          <mxGeometry x="-0.0032" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-26" value="NiCOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYvdVF-vX2-O6icSIcVo-29" value="DAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
