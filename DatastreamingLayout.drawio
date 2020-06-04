@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T11:38:20.624Z" agent="5.0 (Windows)" etag="tzqUUtTks-ctgl1zNs9Y" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T12:58:50.791Z" agent="5.0 (Windows)" etag="CxnuHQyKQYvHqPSbbGGw" version="13.1.14" type="github">
   <diagram id="mHXAq9ncWBV6Gwi8FLQK" name="Page-1">
     <mxGraphModel dx="2574" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="pk0dHB7Y1fjvWEwUfOJk-1" value="ESS layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pk0dHB7Y1fjvWEwUfOJk-2" value="Current ISIS layout (without any data streaming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="pk0dHB7Y1fjvWEwUfOJk-2" value="Current ISIS layout (without any data streaming)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="575" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pk0dHB7Y1fjvWEwUfOJk-3" value="Current ISIS layout with data streaming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry y="1040" width="220" height="20" as="geometry" />
+          <mxGeometry x="40" y="1140" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYvdVF-vX2-O6icSIcVo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yYvdVF-vX2-O6icSIcVo-1" target="yYvdVF-vX2-O6icSIcVo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="950" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsrywFNYNTMYvpL8HbCN-42" value="Future? ISIS layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1900" width="110" height="20" as="geometry" />
+          <mxGeometry x="45" y="1880" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TsrywFNYNTMYvpL8HbCN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="TsrywFNYNTMYvpL8HbCN-44" target="TsrywFNYNTMYvpL8HbCN-45">
           <mxGeometry relative="1" as="geometry" />
